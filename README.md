@@ -1,3 +1,8 @@
+## Project Visualization
+
+![Mental Health Brain Visualization](images/mental_health_brain.png)
+
+
 # analyzing-mental-health
 Using PostgreSQL flavor to analyze international student's mental health in Japan with different prospects.
 
