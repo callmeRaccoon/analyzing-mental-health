@@ -26,4 +26,5 @@ This project analyzes how the length of stay impacts the mental health diagnosti
 
 ## Files
 - `notebook.ipynb` → Full Jupyter Notebook.  
-- `analyzing_students_mental_health.sql` → Clean SQL code.  
+- `analyzing_students_mental_health.sql` → Clean SQL code.
+- `students.csv` → Data file that has been used for the analysis.
